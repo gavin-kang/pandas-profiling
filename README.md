@@ -1,4 +1,4 @@
-# Pandas Profiling
+# Pandas Profiling CN
 
 ![Pandas Profiling Logo Header](http://pandas-profiling.github.io/pandas-profiling/docs/assets/logo_header.png)
 
